@@ -1,3 +1,4 @@
+//Questions 8
 function findErrorNums(nums) {
     const n = nums.length;
     const count = new Array(n + 1).fill(0);

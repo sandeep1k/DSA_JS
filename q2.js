@@ -1,3 +1,5 @@
+
+//Questions 2
 function removeElement(nums, val) {
   let k = 0;
   

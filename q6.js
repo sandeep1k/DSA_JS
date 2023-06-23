@@ -1,3 +1,4 @@
+//Questions 6
 function containsDuplicate(nums) {
     const set = new Set();
   
